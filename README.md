@@ -44,10 +44,9 @@ Here a pairplot from seaborn[^2] package was calculated.
 Find the requirements for this project in [requirements.txt](requirements.txt).
 
 
+## License
+No license
+
 ## Reference
 [^1]: https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html
 [^2]: https://seaborn.pydata.org/
-
-
-## License
-No license
