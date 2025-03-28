@@ -2,8 +2,8 @@
 * [Introduction](#Intro)
 * [Submission](#Submission)
 * [Requirements](#Requirements)
-* [Reference](#Reference)
 * [License](#License)
+* [Reference](#Reference)
 
 ## Intro
 This repo contains one main file, task.ipynb as the submission for the Principles in Data Analytics module. I completed in total 10 tasks that are summarised in the [Submission](#Submission) section. In short, in this file you can see an analysis of the Iris dataset which contains data for 150 Iris samples from three different species[^1]. Each sample has info about 4 features: sepal length, sepal width, petal length, petal width. 
@@ -11,7 +11,7 @@ This repo contains one main file, task.ipynb as the submission for the Principle
 
 ## Submission
 1. Source the Data Set 
-Iris dataset from scikit-learn package was loaded
+Iris dataset from scikit-learn package was loaded.
 
 2. Explore the Data Structure
 Various function were used to explore the Iris dataset and its metadata.
