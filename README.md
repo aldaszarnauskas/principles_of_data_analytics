@@ -45,8 +45,8 @@ Find the requirements in the requirements.txt file that are necessary to run tas
 
 
 ## Reference
-1. https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html
-2. https://seaborn.pydata.org/
+[^1] https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html
+[^2] https://seaborn.pydata.org/
 
 
 ## License
