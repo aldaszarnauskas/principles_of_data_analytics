@@ -6,7 +6,7 @@
 * [Reference](#Reference)
 
 ## Intro
-This repo contains one main file, task.ipynb as the submission for the Principles in Data Analytics module. I completed in total 10 tasks that are summarised in the [Submission](#Submission) section. In short, in this file you can see an analysis of the Iris dataset which contains data for 150 Iris samples from three different species[^1]. Each sample has info about 4 features: sepal length, sepal width, petal length, petal width. 
+This repo contains contains for the submission for the Principles in Data Analytics module. For the submission, it was necessary to complete 10 tasks and upload in one single file. You can find all those tasks in the [tasks.ipynb](tasks.ipynb) file. See [Submission](#Submission) section for a brief description of each task. In short, all those tasks focused on description and analysis of the Iris dataset[^1]. Iris dataset contains 150 Iris samples from three different species. Each sample has 4 features: sepal length, sepal width, petal length, petal width.
 
 
 ## Submission
