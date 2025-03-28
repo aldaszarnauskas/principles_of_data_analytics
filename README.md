@@ -6,7 +6,7 @@
 * [License](#License)
 
 ## Intro
-This repo contains one main file, task.ipynb as the submission for the Principles in Data Analytics module. I completed in total 10 tasks that are summarised in the [Submission](#Submission) section. In short, in this file you can see an analysis of the Iris dataset which contains data for 150 Iris samples from three different species [^1]. Each sample has info about 4 features: sepal length, sepal width, petal length, petal width. 
+This repo contains one main file, task.ipynb as the submission for the Principles in Data Analytics module. I completed in total 10 tasks that are summarised in the [Submission](#Submission) section. In short, in this file you can see an analysis of the Iris dataset which contains data for 150 Iris samples from three different species[^1]. Each sample has info about 4 features: sepal length, sepal width, petal length, petal width. 
 
 
 ## Submissions
@@ -38,15 +38,15 @@ A correlation matrix between all four features were plotted.
 An $R^{2}$ was calculated for the previous analysis.
 
 10. Too Many Features
-Here a pairplot from seaborn [^2] package was calculated.
+Here a pairplot from seaborn[^2] package was calculated.
 
 ## Requirements
-Find the requirements in the requirements.txt file that are necessary to run task.ipynb
+Find the requirements for this project in [requirements.txt](requirements.txt).
 
 
 ## Reference
-[^1] https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html
-[^2] https://seaborn.pydata.org/
+[^1]: https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html
+[^2]: https://seaborn.pydata.org/
 
 
 ## License
